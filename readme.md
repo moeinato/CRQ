@@ -1,10 +1,10 @@
-This is a simple QR Code generator with some fixed parameters as my final assignment for Information Theory
+This is a simple QR Code generator as a final assignment for my Information Theory course.
 
 I'm extremely grateful to this tutorial: https://www.thonky.com/qr-code-tutorial/
 
 Some parameters are fixed for developing sooner and easier.
 
-Attention: for quite few inputs, this program generates wrong QR code.
+Attention: for quite few inputs, this program generates WRONG QR code.
 
 Example: EEEEEEEEEEEEEEEEEEEE
 
